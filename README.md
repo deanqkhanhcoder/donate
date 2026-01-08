@@ -1,1 +1,1 @@
-[![Donate via Banking](https://raw.githubusercontent.com/deanqkhanhcoder/deanqkhanhcoder/refs/heads/main/zalopayqr.png)](LINK_ẢNH_QR_CỦA_BẠN)
+[![Donate via Banking](https://img.shields.io/badge/Donate-Banking-yellow.svg?style=flat-square&logo=bitdefender)](https://raw.githubusercontent.com/deanqkhanhcoder/deanqkhanhcoder/refs/heads/main/zalopayqr.png)
